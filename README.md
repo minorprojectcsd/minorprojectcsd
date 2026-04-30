@@ -292,4 +292,4 @@ curl http://localhost:5000/health   # chat analyser
 
 Built with: Spring Boot · FastAPI · Flask · PostgreSQL (Neon) · MongoDB Atlas · Groq · HuggingFace · Brevo · Render
 
-*Built with ❤️ by the MindCareX Team — minorprojectcsd & abhinavpadige4*
+*Built by the MindCareX Team — minorprojectcsd *
